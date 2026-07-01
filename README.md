@@ -73,7 +73,7 @@ Interactive Dashboards
 
 ## Operations & Customer Satisfaction
 
-![Operations](Screenshots/Operations_and_Customer_Satisfaction.png)
+![Operations](Screenshots/Opertions_and_Customer_Satisfaction.png)
 
 # 🏗 Data Model
 
